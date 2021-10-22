@@ -3,6 +3,8 @@ name = "maas-api"
 version = "0.1.0"
 description = "An api client library for MAAS.io"
 authors = ["Jelle Helsen <jelle.helsen@hcode.be>"]
+homepage = "https://github.com/jellehelsen/maas-api"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
